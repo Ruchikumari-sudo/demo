@@ -1,4 +1,4 @@
 # demo
 This is  my first git repository
 <br>
-Author-Ruchi Kumari
+Author-Ruchi Kumari(IIT KGP)
